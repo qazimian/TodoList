@@ -1,6 +1,6 @@
 import React from 'react'
 import Todo from './Components/Todo'
-import Footer from './Components/footer'
+import Footer from './Components/Footer'
 
 
 const App = () => {
